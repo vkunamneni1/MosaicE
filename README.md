@@ -14,3 +14,8 @@ MosaicE is a PCB controller board that's powered by a XIAO RP2040, three buttons
 ## Schematic
 ![Screenshot 2025-07-04 at 10 33 33 PM](https://github.com/user-attachments/assets/51fe94ca-7d3f-4056-96ef-1126728b5e31)
 (made in KiCad)
+
+## Firmware
+Source files can be found in the firmware directory. It was made in the Arduino IDE, using third-party libraries such as RotaryEncoder by Matthias Hertel.
+
+##### made for Pathfinder
